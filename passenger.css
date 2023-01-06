@@ -1,0 +1,130 @@
+body{
+
+    background-color: green;
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-weight: bolder bold;
+    font-size: large;
+    font-stretch: expanded;
+    
+}
+
+h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: goldenrod;
+    
+    
+}
+
+h2{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+button{
+    width: 30ch;
+    height: 7ch;
+    text-decoration: solid dotted;
+    text-size-adjust: 200ch;
+    text-shadow: 5cm;
+    size: 50ch;
+    border-radius: 5cm;
+    outline: none;
+    margin: 10px;
+    transition: 1s;
+    
+
+}
+#welcome-el{
+    size: 70cm;
+    color: blue;
+}
+#increment-btn{
+    background-color: red;
+    color: white;
+}
+   
+
+#save{
+    background-color: cornflowerblue; 
+    color: white;
+}
+#increment-btn:hover{
+    background-color: darkred;
+    color: black;
+    cursor: pointer;
+
+}
+#save:hover{
+    background-color: blue;
+    color: black  ;
+}
+
+    
+#Startgame{
+    background-color: goldenrod;
+    font-size: large;
+    font-weight: bold;
+    color: #016f32;
+    border: none;
+}
+#messageel{
+    font-style: italic;
+}
+#newgame{
+    background-color: goldenrod;
+    font-size: large;
+    font-weight: bold;
+    color: #016f32;
+    border: none;
+}
+#apple{
+    border: 7cm;
+    width: 7cm;
+    margin-left: 10cm;
+    height: 2cm;
+    background-color:red ;
+    
+}
+#orange{
+    border: 7cm;
+    border-radius: 3cm;
+    width: 7cm;
+    margin-left: 10cm;
+    height: 2cm;
+    background-color: orange;  
+}
+input{
+    width: 100%;
+    height: 2pc;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+}
+#savein{
+    background-color: #016f32;
+}
+input:active{background-color: skyblue;
+    
+}
+#input:focus{
+    background-color: blue;
+}
+#box{
+    padding: 40px;
+    background-color: blue;
+    width: 200px;
+    text-align: center;
+    margin: 30px auto;
+}
+ul{
+    background-color: aliceblue;
+    color: aqua;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+}
